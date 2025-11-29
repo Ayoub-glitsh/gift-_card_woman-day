@@ -79,13 +79,7 @@ Ouvre ton éditeur (VS Code, Sublime, etc.)
 -   ou
 -   `netlify deploy`
 
-## 📸 Aperçu du code
 
-<h1>Pour la meilleure maman du monde 🌸</h1>
-<p class="message">
-  Merci pour ton amour, ton soutien et ta gentillesse chaque jour.
-  Ce petit site est un cadeau pour te dire combien je t’aime ❤️
-</p>
 
 ## 👨‍💻 Auteur
 
