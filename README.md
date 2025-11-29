@@ -1,5 +1,11 @@
 # 🌸 Pour Ma Maman — Mini-Site Personnel
 
+---
+<p align="center">
+  <img src="photo.png" width="300"/>
+</p>
+---
+
 Ce projet est une petite page Web créée comme **cadeau d’amour pour ma maman**.
 
 Il s’agit d’un site simple, élégant et responsive qui affiche un doux message de gratitude et d’affection.
