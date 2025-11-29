@@ -62,11 +62,11 @@ Hébergé gratuitement sur **Netlify**.
 -   Compatible avec tous les navigateurs
 
 ## 📁 Structure du projet
-
+```
 .
 ├── index.html       # Page principale
 └── README.md        # Documentation du projet
-
+```
 ## 🚀 Déploiement
 
 Le site est déjà déployé via **Netlify**.
