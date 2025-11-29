@@ -2,8 +2,10 @@
 
 ---
 <p align="center">
-  <img src="photo.png" width="300"/>
+  <img src="photo.png" />
 </p>
+
+
 ---
 
 Ce projet est une petite page Web créée comme **cadeau d’amour pour ma maman**.
