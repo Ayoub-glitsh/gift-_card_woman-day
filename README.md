@@ -67,7 +67,7 @@ Pour redéployer ou cloner :
 
 ### 1\. Télécharger / cloner
 
-git clone <url-de-ton-repo>
+git clone https://github.com/Ayoub-glitsh/gift-_card_woman-day.git
 
 ### 2\. Modifier le fichier `index.html`
 
